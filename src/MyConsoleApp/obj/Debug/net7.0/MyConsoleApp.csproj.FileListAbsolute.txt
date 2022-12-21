@@ -1,0 +1,15 @@
+/Users/david/Projects/MySolution/src/MyConsoleApp/bin/Debug/net7.0/MyConsoleApp
+/Users/david/Projects/MySolution/src/MyConsoleApp/bin/Debug/net7.0/MyConsoleApp.deps.json
+/Users/david/Projects/MySolution/src/MyConsoleApp/bin/Debug/net7.0/MyConsoleApp.runtimeconfig.json
+/Users/david/Projects/MySolution/src/MyConsoleApp/bin/Debug/net7.0/MyConsoleApp.dll
+/Users/david/Projects/MySolution/src/MyConsoleApp/bin/Debug/net7.0/MyConsoleApp.pdb
+/Users/david/Projects/MySolution/src/MyConsoleApp/obj/Debug/net7.0/MyConsoleApp.csproj.AssemblyReference.cache
+/Users/david/Projects/MySolution/src/MyConsoleApp/obj/Debug/net7.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/Projects/MySolution/src/MyConsoleApp/obj/Debug/net7.0/MyConsoleApp.AssemblyInfoInputs.cache
+/Users/david/Projects/MySolution/src/MyConsoleApp/obj/Debug/net7.0/MyConsoleApp.AssemblyInfo.cs
+/Users/david/Projects/MySolution/src/MyConsoleApp/obj/Debug/net7.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/Users/david/Projects/MySolution/src/MyConsoleApp/obj/Debug/net7.0/MyConsoleApp.dll
+/Users/david/Projects/MySolution/src/MyConsoleApp/obj/Debug/net7.0/refint/MyConsoleApp.dll
+/Users/david/Projects/MySolution/src/MyConsoleApp/obj/Debug/net7.0/MyConsoleApp.pdb
+/Users/david/Projects/MySolution/src/MyConsoleApp/obj/Debug/net7.0/MyConsoleApp.genruntimeconfig.cache
+/Users/david/Projects/MySolution/src/MyConsoleApp/obj/Debug/net7.0/ref/MyConsoleApp.dll
